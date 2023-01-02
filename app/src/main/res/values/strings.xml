@@ -1,0 +1,289 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="data_nama_tv">
+        <item>ANTV</item>
+        <item>BALI TV</item>
+        <item>BBSTV</item>
+        <item>BTV</item>
+        <item>CNN</item>
+        <item>GTV</item>
+        <item>INDOSIAR</item>
+        <item>iNEWS</item>
+        <item>KOMPAS TV</item>
+        <item>MAGNA CHANEL</item>
+        <item>METRO TV</item>
+        <item>MNCTV</item>
+        <item>NET</item>
+        <item>NUSANTARA TV</item>
+        <item>RBTV</item>
+        <item>RCTI</item>
+        <item>RTV</item>
+        <item>SCTV</item>
+        <item>SURABAYA TV</item>
+        <item>TEGAR TV</item>
+        <item>TRANS 7</item>
+        <item>TRANS TV</item>
+        <item>TVONE</item>
+        <item>TVRI</item>
+        <item>UMNTV</item>
+    </string-array>
+
+    <string-array name="data_deskripsi_tv">
+        <item>
+            antv (dieja Anteve, singkatan dari Andalas Televisi) adalah salah satu stasiun televisi
+swasta nasional di Indonesia.
+antv dimiliki oleh konglomerat Aburizal Bakrie dan sekarang dikelola oleh yaitu Anindya
+Bakrie, yang menjadi Presiden Direktur dari stasiun televisi ini. Konglomerat media asal
+Amerika Serikat, Rupert Murdoch, membeli sekitar 20% saham antv pada 30 April 2006
+melalui perusahaannya di Hong Kong, Star TV. Pangsa pasar antv saat ini adalah sekitar
+5% dari 180 juta penonton.
+        </item>
+
+        <item>
+            Bali TV adalah stasiun televisi lokal di Indonesia yang berpusat di Bali,
+berdiri di bawah kepemimpinan Satria Naradha yang merupakan pemimpin
+Kelompok Media Bali Post. Bali TV hadir sebagai program yang memfokuskan terhadap
+kebudayaan, adat istiadat, dan keunikan yang khas dari Pulau Bali.
+        </item>
+
+        <item>
+            BBSTV (singkatan dari Bama Berita Sarana Televisi, pernah bernama BIOSTV) merupakan salah
+satu jaringan televisi di Indonesia. BBSTV memperoleh izin mengudara secara lokal di Surabaya
+pada tanggal 1 September 2008. Sejak Oktober 2009, BBSTV telah mendapat IPP (Izin
+Penyelenggaraan Penyiaran) berdasarkan keputusan Menteri Komunikasi dan Informatika RI Nomor:
+371/KEP/M.KOMINFO/10/2009. Jam mengudaranya dimulai pukul 04.00-24.00 WIB setiap harinya.
+Jangkauan siarannya meliputi Kota Surabaya, Sidoarjo, Gresik, Lamongan, Pasuruan, Kamal,
+Bangkalan, Malang, dan Kediri, serta bersiaran di Jabodetabek melalui siaran digital dan tersiar melalui satelit Palapa.
+        </item>
+
+        <item>
+            BTV, merupakan jaringan televisi milik negara di Bangladesh. Ini dimulai penyiaran sebagai
+televisi Pakistan dalam apa yang kemudian Pakistan Timur pada 25 Desember 1964. Nama
+Bangladesh Television dipakai setelah kemerdekaan pada tahun 1971. Siaran dalam warna penuh
+dimulai pada tahun 1980. Sekitar 2 juta televisi menerima transmisi dari 17 stasiun relay
+jaringan.
+        </item>
+
+        <item>
+            CNN Indonesia adalah sebuah jaringan televisi berita digital dan berbayar, serta situs
+berita milik Trans Media dengan mengambil lisensi nama CNN dari WarnerMedia, divisi dari
+AT dan T (melalui WarnerMedia Entertainment Networks Asia Pacific).[3] Saluran ini disiarkan
+pertama kalinya pada Senin, 17 Agustus 2015. Peluncuran utamanya berlangsung
+sejak 15 Desember 2015 dalam rangka memperingati ulang tahun Trans Media yang ke-14.
+        </item>
+
+        <item>
+            GTV (sebelumnya bernama Global TV) adalah salah satu jaringan televisi swasta nasional di
+Indonesia. Berawal dari sebuah stasiun televisi lokal di Jakarta, GTV belakangan meluaskan
+siaran ke 5 kota besar lainnya. Pada tanggal 11 Oktober 2017, Global TV berganti nama
+menjadi GTV dalam rangka acara ulang tahun GTV yang bernama "Amazing 15". GTV
+didirikan pada 22 Maret 1999.
+        </item>
+
+        <item>
+            Indosiar (nama panjangnya Indosiar Visual Mandiri, disingkat IVM) adalah salah satu jaringan
+televisi swasta nasional di Indonesia, yang beroperasi dari Daan Mogot, Jakarta Barat.
+Indosiar awalnya didirikan dan dikuasai oleh Salim Group. Pada tahun 2004, Indosiar
+merupakan bagian dari PT Indosiar Karya Media Tbk (sebelumnya PT Indovisual Citra Persada)
+yang tercatat di Bursa Efek Indonesia (dahulu Bursa Efek Jakarta). Pada 13 Mei 2011,
+mayoritas saham PT Indosiar Karya Media Tbk dibeli oleh PT Elang Mahkota Teknologi Tbk,
+pemilik SCTV (melalui SCM sebelum bergabung dengan IDKM), menjadikan kedua jaringan televisi
+berada dalam satu pengendalian.[3][4] Kini, jaringan televisi ini resmi dikuasai oleh SCM
+pasca bergabung dengan IDKM dan "bersaudara" dengan SCTV.
+        </item>
+
+        <item>
+            iNewsTV merupakan televisi nasional berjaringan, yang memiliki
+jaringan televisi lokal terbanyak dan terluas di Indonesia. iNewsTV mengangkat
+dan menonjolkan konten-konten lokal daerah masing-masing yang pastinya
+akan berbeda dengan televisi-televisi nasional yang sudah ada. iNewsTV
+diharapkan menjadi refrensi utama bagi pemirsa yang memerlukan informasi
+dan berita.
+
+        </item>
+
+        <item>
+            Kompas TV, sebuah perusahaan media yang menyajikan konten tayangan televisi inspiratif dan
+menghibur untuk keluarga Indonesia. Sesuai dengan visi misi yang diusung, Kompas TV
+mengemas program tayangan news, adventure dan knowledge, entertainment yang mengedepankan
+kualitas.
+        </item>
+
+        <item>
+            Magna Channel (bersiaran dengan logo layar Magna TV) adalah sebuah stasiun televisi
+terestrial digital swasta nasional di Indonesia yang dimiliki oleh Media Group (yang juga
+memiliki Metro TV dan BNTV) yang beroperasi dari Kebon Jeruk, Jakarta Barat. Disiarkan
+dengan kualitas definisi tinggi, Magna Channel resmi mengudara pertama kalinya pada tanggal
+16 Juli 2020 mulai pukul 15:00 WIB, menjadikannya stasiun televisi terestrial digital swasta
+nasional yang kedua di Media Group setelah Metro TV. Magna Channel menyajikan konten program
+seputar fesyen, hiburan, varietas, musik dan gaya hidup dengan membidik pangsa pasar wanita
+dan milenial berusia 15 tahun ke atas.
+        </item>
+
+        <item>
+            Metro TV adalah anak perusahaan dari MEDIA GROUP yang dimiliki oleh Surya Paloh, tokoh pers
+Indonesia yang telah merintis usaha di bidang pers sejak ia mendirikan Harian PRIORITAS.
+Metro TV bertujuan untuk menyebarkan berita dan informasi ke seluruh pelosok Indonesia.
+        </item>
+
+        <item>
+            MNCTV (dulunya TPI) adalah salah satu pelopor stasiun televisi swasta di Indonesia. Stasiun
+tv ini didirikan pada tahun 1990 di Jakarta, sebagai perusahaan yang bergerak dalam bidang
+jasa penyiaran televisi di Indonesia. TPI (Televisi Pendidikan Indonesia) dulunya didirikan
+oleh Siti Hardijanti Rukmana (Mbak Tutut) yang pernah menjabat sebagai  Menteri Sosial pada
+Kabinet Pembangunan VII. Pada awalnya TPI menyiarkan berbagai siaran dengan televisi milik
+pemerintah yaitu TVRI. Namun perlahan, mereka mulai menggantinya dengan acara-acara lain
+termasuk kuis-kuis dan sinetron sebagai selingan. hingga akhirnya TPI berpisah dari TVRI
+pada pertengahan 90an. TPI berganti fokus ke penyiaran acara musik dangdut sehingga singkatan
+TPI pun berganti menjadi Televisi Paling Indonesia. Misinya pun juga berganti  yakni
+menyiarkan acara-acara khas Indonesia seperti tayangan sinetron lokal dan musik dangdut.
+TPI pun menyabet banyak penghargaan dengan program-program dangdut dan sinetronnya.
+        </item>
+
+        <item>
+            NET(singkatan dari News and Entertainment Television) adalah sebuah stasiun televisi nasional
+di Indonesia yang didirikan pada 18 Mei 2013 dan resmi diluncurkan pada 26 Mei 2013. NET.
+menggantikan siaran Spacetoon pada pertengahan Maret 2013 yang sebagian sahamnya sebesar
+95% telah diambil alih oleh Indika Group.
+        </item>
+
+        <item>
+            Nusantara TV adalah stasiun televisi berskala nasional yang resmi mengudara di ranah
+penyiaran digital terestrial Free To Air sejak 28 Juni 2016. Didahului dengan peluncuran
+website tv streaming www.nusantaratv.com, tepat pada hari sumpah pemuda 10 November 2015,
+NTV siap menghadirkan konten-konten berbasis kepentingan bangsa dan kepentingan masyarakat
+di seluruh nusantara.
+        </item>
+
+        <item>
+            Reksa Birama TV atau disingkat RBTV merupakan stasiun televisi lokal yang berdiri dan
+mengudara di Kota Yogyakarta. RBTV berdiri atas kerjasama PT Redjo Buntung Yogyakarta
+(RB Group, hingga tahun 2012) dan STMIK AMIKOM Yogyakarta. Sejak tanggal 1 Maret 2012,
+RBTV merupakan stasiun televisi lokal di bawah naungan Kompas TV.[1] Dengan demikian,
+siaran mengudara RBTV yang sebelumnya dari pukul 10.00 WIB-24.00 WIB, kini menjadi pukul
+04.00 WIB hingga pukul 01.00 WIB menyesuaikan dengan siaran Kompas TV.
+        </item>
+
+        <item>
+            RCTI (singkatan dari Rajawali Citra Televisi Indonesia) adalah salah satu jaringan televisi
+swasta di Indonesia yang dimiliki oleh Media Nusantara Citra (MNC). RCTI merupakan jaringan
+televisi swasta pertama di Indonesia. Pada awalnya didirikan sebagai perusahaan patungan
+dengan kepemilikan saat itu adalah Bimantara Citra (69,82%) dan Rajawali Wirabhakti Utama
+(30,18%).[1] RCTI pertama mengudara pada 13 November 1988 dan diresmikan 24 Agustus 1989
+pukul 13.30 WIB dan pada waktu itu, siaran RCTI hanya dapat ditangkap oleh pelanggan yang
+memiliki dekoder dan membayar iuran setiap bulannya di Jakarta.
+        </item>
+
+        <item>
+            RTV (singkatan dari Rajawali Televisi) adalah sebuah jaringan televisi swasta nasional di
+Indonesia yang dimiliki oleh Rajawali Corpora. Stasiun televisi ini resmi mengudara pada
+tanggal 1 November 2009 di Jakarta dengan nama B-Channel, dan pada tanggal 3 Mei 2014,
+berganti nama menjadi RTV.
+        </item>
+
+        <item>
+            SCTV (singkatan dari Surya Citra Televisi) adalah sebuah jaringan televisi swasta nasional
+di Indonesia. SCTV merupakan televisi swasta kedua di Indonesia setelah RCTI. SCTV lahir
+pada tanggal 24 Agustus 1990 sebagai stasiun televisi lokal di Surabaya yang berpusat di
+Jl. Darmo Permai, Surabaya, Jawa Timur.
+        </item>
+
+        <item>
+            Surabaya TV adalah stasiun televisi lokal dengan wilayah penyiaran di Kota Surabaya dan
+sekitarnya (Gresik, Jombang, Sidoarjo, Mojokerto, Lamongan, Pasuruan, Bangkalan, Bojonegoro,
+Tuban). Surabaya TV diluncurkan pada tanggal 31 Mei 2007 bersamaan dengan hari ulang tahun
+Kota Surabaya ke-714.
+        </item>
+
+        <item>
+            Lahirnya Tegar TV di Lampung pada 10 maret 2005. PT. Tegar Multimedia Tivi sebagai badan
+hokum lembaga penyiaran swasta penyelenggara jasa penyiaran televisi yang berbasis stasiun
+lokal di Bandar Lampung dan menempati kanal 42 UHF, yang berlokasi di gedung Graha Pena
+Panca Bhakti. Jalan Zainal Abidin Pagar Alam No.14 Kedaton, Bandar Lampung. Tegar TV kini
+akan memasuki usia ke-9 tahun, semakain menegaskan posisioning nya sebagai satu-satunya
+televisi lokal yang menayangkan 100% produk lokal dengan menjunjung nikai kearifan lokal.
+24 jam bersama masyarakat Lampung, hadir dengan program mengedukasi, menghibur dan bermanfaat
+serta menghadirkan informasi factual, balance dan klarifikasi.
+        </item>
+
+        <item>
+            TRANS7 yang semula bernama TV7 dimulai pada tanggal 22 Maret 2000 yang diumumkan dalam
+Tambahan Berita Negara Nomor 8687 Tahun 2001 tanggal 28 Desember 2001 sebagai PT Duta Visual
+Nusantara Tivi Tujuh. Pada tanggal 4 Agustus 2006 Kelompok Kompas Gramedia membangun
+hubungan kerjasama strategis dengan CT Corp dan sejak itu TV7 berubah menjadi TRANS7.
+        </item>
+
+        <item>
+            TRANS TV sebagai perusahaan Free to Air television (FTA) Nasional mengedepankan tayangan
+informasi dan hiburan yang kreatif, inovatif serta berkualitas untuk keluarga (General
+Entertainment) sehingga turut berkontribusi mensejahterakan sekaligus mencerdaskan kehidupan
+bangsa untuk Indonesia yang lebih baik. TRANS TV memiliki positioning yang jelas yaitu
+selalu menghasilkan acara-acara yang menjadi trendsetter, menayangkan banyak program-program
+lifestyle kekinian serta didukung dengan deretan film-film blockbuster terkenal.
+        </item>
+
+        <item>
+            PT. Lativi Media Karya, beroperasi sebagai tvOne, adalah sebuah jaringan televisi nasional
+di Indonesia yang berfokus pada konten berita. Berawal dari penggunaan nama Lativi, jaringan
+televisi ini diluncurkan pada tanggal 30 Juli 2002 pukul 16:00 WIB oleh Abdul Latief dan
+dimiliki oleh ALatief Corporation. Pada saat itu, konsep penyusunan acaranya banyak
+menonjolkan masalah yang berbau klenik, erotisme, berita kriminalitas dan beberapa hiburan
+ringan lainnya. Sejak tahun 2007, saham mayoritasnya dimiliki oleh Grup Bakrie (melalui PT
+Visi Media Asia) yang juga memiliki stasiun televisi antv, dan Abdul Latief tidak lagi berada
+dalam kepemilikan sahamnya.
+        </item>
+
+        <item>
+            Televisi Republik Indonesia (disingkat TVRI) adalah jaringan televisi publik berskala
+nasional di Indonesia. TVRI berstatus sebagai Lembaga Penyiaran Publik bersama Radio
+Republik Indonesia (RRI), yang ditetapkan melalui Undang-Undang Nomor 32 Tahun 2002 tentang
+Penyiaran. TVRI merupakan jaringan televisi pertama di Indonesia, mulai mengudara pada
+tanggal 24 Agustus 1962. TVRI memonopoli siaran televisi di Indonesia hingga tahun 1989,
+ketika televisi swasta pertama didirika
+        </item>
+
+        <item>
+            Universitas Multimedia Nusantara (UMN) merupakan salah satu perguruan
+tinggi swasta yang berlokasi di Kelapa Dua, Tangerang, Banten. UMN telah
+mendapatkan izin dari Menteri Pendidikan Nasional Republik Indonesia untuk
+beroperasi pada 25 November 2005 yang bertujuan untuk melahirkan sarjana
+dengan kompetensi berimbang antara keterampilan akademik (hard skills) dan juga
+non akademik (soft skills). Sehingga, harapannya lulusan UMN diharapkan bisa
+menjadi sarjana dengan karakter baik dan profesional. Perguruan tinggi ini berada
+di bawah naungan Yayasan Multimedia Nusantara yang didirikan oleh Kompas
+Gramedia (Universitas Multimedia Nusantara, 2021).
+        </item>
+    </string-array>
+
+    <string-array name="data_logo_tv">
+        <item>@drawable/antv</item>
+        <item>@drawable/balitv</item>
+        <item>@drawable/bbstv</item>
+        <item>@drawable/btv</item>
+        <item>@drawable/cnn</item>
+        <item>@drawable/gtv</item>
+        <item>@drawable/indosiar</item>
+        <item>@drawable/inewstv</item>
+        <item>@drawable/kompastv</item>
+        <item>@drawable/magnachanel</item>
+        <item>@drawable/metrotv</item>
+        <item>@drawable/mnctv</item>
+        <item>@drawable/net</item>
+        <item>@drawable/nusantaratv</item>
+        <item>@drawable/rbtv</item>
+        <item>@drawable/rcti</item>
+        <item>@drawable/rtv</item>
+        <item>@drawable/sctv</item>
+        <item>@drawable/surabayatv</item>
+        <item>@drawable/tegartv</item>
+        <item>@drawable/trans7</item>
+        <item>@drawable/transtv</item>
+        <item>@drawable/tvone</item>
+        <item>@drawable/tvri</item>
+        <item>@drawable/umntv</item>
+
+
+
+    </string-array>
+</resources>
